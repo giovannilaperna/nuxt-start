@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "MINIMAL=1 nuxt",
     "build": "nuxt build",
-    "start": "node index.js",
+    "start": "nuxt build && nuxt-start",
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {

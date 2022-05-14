@@ -1,4 +1,6 @@
 export default {
+  ssr: false,
+  target: 'server',
   /*
    ** Headers of the page
    ** Doc: https://vue-meta.nuxtjs.org/api/#metainfo-properties
