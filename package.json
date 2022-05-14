@@ -1,7 +1,7 @@
 {
   "name": "nuxt-start",
   "version": "1.0.0",
-  "author": "Nuxt.js Team",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "MINIMAL=1 nuxt",
